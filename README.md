@@ -57,7 +57,7 @@ Now, multiple users can edit the same document collaboratively. Document changes
 
 * **Product page:**   [Syncfusion® DOCX Editor](https://www.syncfusion.com/docx-editor-sdk?utm_source=github_&utm_medium=webinar&utm_campaign=webinar_es_reactcollabedit_july2026) 
 * **Documentation**   [Collaborative Editing in React - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/react/collaborative-editing/using-redis-cache-asp-net-core?utm_source=github_&utm_medium=webinar&utm_campaign=webinar_es_reactcollabedit_july2026) 
-* **Online demo:**   [React Word Processor - Collaborative Editing - Online demo](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor/collaborative-editing?utm_source=github_&utm_medium=webinar&utm_campaign=webinar_es_reactcollabedit_july2026) 
+* **Online demo:**   [React DOCX Editor - Collaborative Editing - Online demo](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor/collaborative-editing?utm_source=github_&utm_medium=webinar&utm_campaign=webinar_es_reactcollabedit_july2026) 
 
 # Support and feedback 
 
